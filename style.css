@@ -39,6 +39,7 @@
             width: 100%;
     }
         img{
+            border: 3px solid #0872ec87;
             display: block;
             margin: 0 auto;         
             border-radius: 0.8em;
