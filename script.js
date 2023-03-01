@@ -7,5 +7,5 @@ const atribut = document.querySelector('#attribution');
    }else {
     atribut.style.display = "none";
    }
-})
+});
     
