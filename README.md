@@ -1,3 +1,12 @@
+## Interactive rating component
+
+![componente](./images/Screenshot.png)
+
+
+### Links
+
+-  [Live Site URL](https://qr-code-component-tau-lilac.vercel.app/)
+
 
 
 
